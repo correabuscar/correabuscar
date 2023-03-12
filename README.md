@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ---
 
 
+<!-- Total commits: 2 ?! this clearly doesn't work all of the time, commenting out then
 <div align="center">
 
 
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
 
 
 </div>
+-->
