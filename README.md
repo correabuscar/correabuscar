@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Feel free to ignore the `Highlights`->`Security Bug Bounty Hunter` in my profile(to the left),  
+that was just an accidental find[^3] and I ain't[[*sic*](https://en.wikipedia.org/wiki/Sic)] worthy of that title.  
+However, the only way to hide it is to leave the organization `GitHubBounty` which I'm not yet ready/willing to do[^1] just for that[^2].
+  
+
 <!--
 **correabuscar/correabuscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +33,7 @@ Here are some ideas to get you started:
 
 </div>
 -->
+
+[^1]: plus it's unclear what side-effects leaving has.
+[^2]: though I might change my mind if it becomes too deceptive to have that `Security Bug Bounty Hunter` show in my profile. Although mentioning that here might help dispel the illusion.
+[^3]: that being said, it was an opportunity for me to choose whether or not to follow a path in security, but I've decided against it because focusing on bugs/issue (which is something I naturally do, it seems, and with a certain enjoyment which I'm not really proud of) is only creating more of them (if you believe the universe works like I do) for me to fix. Thus I could choose between creating more bugs or creating more software instead. I seem to want to choose the latter, if I can get rid of the habit of enjoying the finding/reporting/working_around of bugs/wrongs/inconsistencies.
